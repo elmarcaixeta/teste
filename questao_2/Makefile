@@ -1,4 +1,5 @@
 #Arquivo final executavel
+#TESTE
 BINFOLDER := bin/
 #.hpp
 INCFOLDER := inc/
