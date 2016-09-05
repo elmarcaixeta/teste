@@ -1,0 +1,12 @@
+language: C
+
+script:
+  - rake test
+
+rvm:
+-2.3.0
+
+notifications:
+  email:
+    recipients:
+    - elmarc5@hotmail.com
